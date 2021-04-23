@@ -1,7 +1,6 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
+-- GUI Created by Zutsukie/s1ckgrave
+wait(2)
+print("Nova's dance GUI was successfully loaded, this GUI is outdated and do not work any longer"
 
 local NovaAnims = Instance.new("ScrollingFrame")
 local Button1 = Instance.new("TextButton")
